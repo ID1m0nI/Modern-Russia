@@ -1,0 +1,76 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Vladimir Putin
+  rotate: false
+  xy: 1708, 591
+  size: 289, 289
+  orig: 289, 289
+  offset: 0, 0
+  index: -1
+NationIcons/Russia
+  rotate: false
+  xy: 4, 80
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Atlant
+  rotate: false
+  xy: 4, 44
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Smerch
+  rotate: false
+  xy: 1340, 484
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/T-90
+  rotate: false
+  xy: 1708, 555
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Taifun-K
+  rotate: false
+  xy: 2005, 852
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Atlant
+  rotate: false
+  xy: 1340, 520
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+UnitIcons/Smerch
+  rotate: false
+  xy: 812, 4
+  size: 348, 348
+  orig: 348, 348
+  offset: 0, 0
+  index: -1
+UnitIcons/T-90
+  rotate: false
+  xy: 812, 360
+  size: 520, 520
+  orig: 520, 520
+  offset: 0, 0
+  index: -1
+UnitIcons/Taifun-K
+  rotate: false
+  xy: 1168, 4
+  size: 348, 348
+  orig: 348, 348
+  offset: 0, 0
+  index: -1

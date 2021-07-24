@@ -1,0 +1,61 @@
+[
+  // Russia
+  {
+    "name": "T-90",
+    "unitType": "Armor",
+    "uniqueTo": "Russia",
+    "replaces": "Modern Armor",
+    "movement": 7,
+    "strength": 125,
+		"cost": 375,
+		"requiredTech": "Lasers",
+		"requiredResource": "Oil",
+		"upgradesTo": "Giant Death Robot",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"attackSound": "tankshot"
+  },
+  {
+    "name": "Taifun-K",
+    "unitType": "Melee",
+    "uniqueTo": "Russia",
+    "replaces": "Mechanized Infantry",
+		"movement": 4,
+		"strength": 100,
+		"cost": 355,
+		"requiredTech": "Mobile Tactics",
+		"attackSound": "tankshot"
+  },
+  {
+    "name": "Smerch",
+    "unitType": "Siege",
+    "uniqueTo": "Russia",
+    "replaces": "Rocket Artillery",
+		"movement": 2,
+		"strength": 65,
+		"rangedStrength": 70,
+		"range": 3,
+		"cost": 400,
+		"requiredTech": "Rocketry",
+		"requiredResource": "Aluminum",
+		"uniques": ["+[200]% Strength vs [City]","No defensive terrain bonus",
+			"Limited Visibility","Ranged attacks may be performed over obstacles"],
+		"attackSound": "artillery"
+  },
+  {
+    "name": "Atlant",
+    "unitType": "WaterRanged",
+    "uniqueTo": "Russia",
+    "replaces": "Missile Cruiser",
+		"movement": 7,
+		"strength": 100,
+		"rangedStrength": 120,
+		"range": 3,
+		"interceptRange": 2,
+		"cost": 400,
+		"requiredTech": "Robotics",
+		"uniques": ["[100]% chance to intercept air attacks", "Can attack submarines",
+			"Ranged attacks may be performed over obstacles", "Can carry [3] [Missile] units",
+			"+[100]% Strength vs [submarine units]"],
+		"attackSound": "shipguns"
+  }
+]
