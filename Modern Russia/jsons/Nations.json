@@ -18,7 +18,7 @@
     "innerColor": [255,255,255],
 
     "uniqueName": "National projects of Russia",
-    "uniques": ["+[10]% [Science] [in all cities]","+[5]% [Production] [in all cities]","+[5]% Production when constructing [Melee] units"],
+    "uniques": ["[+10]% [Science] [in all cities]","[+5]% [Production] [in all cities]","[+5]% Production when constructing [Melee] units"],
     "cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
 			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
 			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
