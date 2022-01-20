@@ -11,7 +11,7 @@
 		"requiredTech": "Lasers",
 		"requiredResource": "Oil",
 		"upgradesTo": "Giant Death Robot",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
   },
   {
@@ -23,6 +23,7 @@
 		"strength": 100,
 		"cost": 355,
 		"requiredTech": "Mobile Tactics",
+		"uniques": ["Never appears as a Barbarian unit"],
 		"attackSound": "tankshot"
   },
   {
@@ -37,8 +38,8 @@
 		"cost": 400,
 		"requiredTech": "Rocketry",
 		"requiredResource": "Aluminum",
-		"uniques": ["+[200]% Strength vs [City]","No defensive terrain bonus",
-			"Limited Visibility","Ranged attacks may be performed over obstacles"],
+		"uniques": ["+[200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
+			"[-1] Sight","Ranged attacks may be performed over obstacles","Never appears as a Barbarian unit"],
 		"attackSound": "artillery"
   },
   {
@@ -53,9 +54,9 @@
 		"interceptRange": 2,
 		"cost": 400,
 		"requiredTech": "Robotics",
-		"uniques": ["[100]% chance to intercept air attacks", "Can attack submarines",
+		"uniques": ["[100]% chance to intercept air attacks", "Can see invisible [Submarine] units",
 			"Ranged attacks may be performed over obstacles", "Can carry [3] [Missile] units",
-			"+[100]% Strength vs [submarine units]"],
+			"+[100]% Strength <vs [Submarine] units>", "Never appears as a Barbarian unit"],
 		"attackSound": "shipguns"
   }
 ]
