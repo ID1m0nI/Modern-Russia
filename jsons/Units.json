@@ -56,7 +56,7 @@
 		"requiredTech": "Robotics",
 		"uniques": ["[100]% chance to intercept air attacks", "Can see invisible [Submarine] units",
 			"Ranged attacks may be performed over obstacles", "Can carry [3] [Missile] units",
-			"+[100]% Strength <vs [Submarine] units", "Never appears as a Barbarian unit"],
+			"+[100]% Strength <vs [Submarine] units>", "Never appears as a Barbarian unit"],
 		"attackSound": "shipguns"
   }
 ]
