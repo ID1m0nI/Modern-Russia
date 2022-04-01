@@ -1,27 +1,27 @@
 [
   {
-    "name": "Russia",
-    "leaderName": "Vladimir Putin",
-    "adjective": ["Russian"],
-    "startBias": ["Tundra"],
-    "preferredVictoryType": "Domination",
+    "name": "Eurasian Union",
+    "leaderName": "Владимир Путин",
+    "adjective": ["Евразийцы"],
+    "startBias": ["Plains"],
+    "preferredVictoryType": "Cultural",
 
-    "startIntroPart1": "After the collapse of the Soviet Union, the new Russia fell into a deep social and economic crisis. Throughout the nineties, Yeltsin's gang tried to pull Russia out of the abyss of the crisis, but nothing came of it. After the successful suppression of the Chechen resistance under your leadership, you, Vladimir Vladimirovich Putin, will lead the new Russia and return its glorious name!",
-    "declaringWar": "In the most difficult time of the war, in the decisive battles that determined the outcome of the struggle against the enemy, our people were alone, alone on the difficult, heroic and sacrificial path to Victory.",
-    "attacked": "Russia is a country with more than a thousand years of history, and almost always it has enjoyed the privilege of pursuing an independent foreign policy. We are not going to change this tradition today.",
-    "defeated": "Today we see gatherings of unbeaten punishers and their followers, attempts to rewrite history, to justify traitors and criminals, on whose hands the blood of hundreds of thousands of peaceful people.",
-    "introduction": "Greetings, I, Vladimir Putin, am the President of the Russian Federation. I look forward to economic cooperation with you. But if you encroach on the lands of holy Russia, we will not disdain to knock out your teeth.",
-    "neutralHello": "Hello!",
-    "hateHello": "Your sanctions only make Russia stronger.",
-    "tradeRequest": "How would you like it if I propose this kind of exchange?",
-    "outerColor": [0,148,255],
+    "startIntroPart1": "После успешной специальной военной операции в Украине Владимир Владимирович Путин, при содействии стран-участниц ЕАЭС, формирует новое государственное образование на территории постсоветского пространства. Евразийский Союз распространился на территории Центральной Азии, Восточной Европы и имеет интересы в Латинской Америке. Под вашим чутким контролем вы поведёте Союз на новые высоты!",
+    "declaringWar": "Обстоятельства требуют от нас решительных и незамедлительных действий. Народные формирования на Земле обратились к Евразии с просьбой о помощи. В связи с этим, в соответствии со статьей 51, часть 7 Устава ООН, с санкции Совета Союза и во исполнение ратифицированных Федеральным Собранием договоров о дружбе и взаимопомощи с ДНР и ЛНР, мной принято решение о проведении специальной военной операции.",
+    "attacked": "Мы будем преследовать вас везде. В аэропорту — в аэропорту. Значит, вы уж меня извините, в туалете поймаем, мы и в сортире вас замочим, в конце концов. Всё, вопрос закрыт окончательно.",
+    "defeated": "После поражения я уйду в оппозицию и буду ругать власть.",
+    "introduction": "Границы Евразии нигде не заканчиваются.",
+
+    "neutralHello": "Здравствуйте!",
+    "hateHello": "Нет оплаты - нет продукта. Проваливайте.",
+
+    "tradeRequest": "Мы готовы сотрудничать с вами на взаимовыгодных условиях!",
+
+    "outerColor": [155,0,255],
     "innerColor": [255,255,255],
-
-    "uniqueName": "National projects of Russia",
-    "uniques": ["+[10]% [Science] [in all cities]","+[5]% [Production] [in all cities]","+[5]% Production when constructing [Melee] units"],
-    "cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
-			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
-			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
-			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"]
+    "favoredReligion": "Christianity",
+    "uniqueName": "Успешное объединение",
+    "uniques": ["[5]% tile improvement construction time","Starts with [Civil Service]","[10]% [Gold] from Trade Routes"],
+    "cities": ["Москва","Санкт-Петербург","Владивосток","Екатеринбург","Ростов-на-Дону","Минск","Гомель","Витебск","Брест","Гродно","Херсон","Одесса","Харьков","Донецк","Николаев","Астана","Алма-Ата","Караганда","Актобе","Шышкент","Бишкек","Ош","Каракол","Джалал-Абад","Токмак","Ереван","Гюмри","Ванадзор","Вагаршапат","Иджеван"]
   }
 ]

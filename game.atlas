@@ -1,76 +1,171 @@
 
 game.png
-size: 2048, 1024
+size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-LeaderIcons/Vladimir Putin
+BuildingIcons/Severstal Company
   rotate: false
-  xy: 1708, 591
-  size: 289, 289
-  orig: 289, 289
+  xy: 4, 699
+  size: 1040, 1041
+  orig: 1040, 1041
   offset: 0, 0
   index: -1
-NationIcons/Russia
+UnitIcons/S-400
   rotate: false
-  xy: 4, 80
-  size: 800, 800
-  orig: 800, 800
+  xy: 4, 4
+  size: 1024, 687
+  orig: 1024, 687
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Atlant
+
+game2.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Moskovskiy Gosudarstvennyy Universitet
   rotate: false
-  xy: 4, 44
-  size: 32, 28
-  orig: 32, 28
+  xy: 1031, 893
+  size: 900, 889
+  orig: 900, 889
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Smerch
+UnitIcons/Admiral Kuznetsov
   rotate: false
-  xy: 1340, 484
-  size: 32, 28
-  orig: 32, 28
+  xy: 1031, 4
+  size: 881, 881
+  orig: 881, 881
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/T-90
+UnitIcons/Moskva
   rotate: false
-  xy: 1708, 555
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Taifun-K
-  rotate: false
-  xy: 2005, 852
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-UnitIcons/Atlant
-  rotate: false
-  xy: 1340, 520
-  size: 360, 360
-  orig: 360, 360
-  offset: 0, 0
-  index: -1
-UnitIcons/Smerch
-  rotate: false
-  xy: 812, 4
-  size: 348, 348
-  orig: 348, 348
+  xy: 4, 763
+  size: 1019, 1019
+  orig: 1019, 1019
   offset: 0, 0
   index: -1
 UnitIcons/T-90
   rotate: false
-  xy: 812, 360
-  size: 520, 520
-  orig: 520, 520
+  xy: 4, 74
+  size: 920, 681
+  orig: 920, 681
   offset: 0, 0
   index: -1
-UnitIcons/Taifun-K
+
+game3.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Monument to Lenin
   rotate: false
-  xy: 1168, 4
-  size: 348, 348
-  orig: 348, 348
+  xy: 831, 612
+  size: 725, 725
+  orig: 725, 725
+  offset: 0, 0
+  index: -1
+BuildingIcons/Nornikel Company
+  rotate: false
+  xy: 4, 1126
+  size: 819, 819
+  orig: 819, 819
+  offset: 0, 0
+  index: -1
+BuildingIcons/Park Gorkogo
+  rotate: false
+  xy: 4, 318
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1
+UnitIcons/Kalibr
+  rotate: false
+  xy: 812, 4
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+UnitIcons/Su-25
+  rotate: false
+  xy: 1420, 4
+  size: 600, 600
+  orig: 600, 600
+  offset: 0, 0
+  index: -1
+UnitIcons/Su-40
+  rotate: false
+  xy: 831, 1345
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+
+game4.png
+size: 1024, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/City of Union significance
+  rotate: false
+  xy: 499, 337
+  size: 388, 388
+  orig: 388, 388
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gazprom Company
+  rotate: false
+  xy: 475, 4
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+NationIcons/Eurasian Union
+  rotate: false
+  xy: 4, 1021
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+UnitIcons/BTR-80
+  rotate: false
+  xy: 524, 733
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+UnitIcons/Buratino
+  rotate: false
+  xy: 562, 1589
+  size: 452, 452
+  orig: 452, 452
+  offset: 0, 0
+  index: -1
+UnitIcons/Ka-52
+  rotate: false
+  xy: 4, 1541
+  size: 550, 500
+  orig: 550, 500
+  offset: 0, 0
+  index: -1
+UnitIcons/Knaz Vladimir
+  rotate: false
+  xy: 4, 526
+  size: 487, 487
+  orig: 487, 487
+  offset: 0, 0
+  index: -1
+UnitIcons/Proekt 956
+  rotate: false
+  xy: 4, 55
+  size: 463, 463
+  orig: 463, 463
+  offset: 0, 0
+  index: -1
+UnitIcons/T-72
+  rotate: false
+  xy: 562, 1141
+  size: 440, 440
+  orig: 440, 440
   offset: 0, 0
   index: -1

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "City of Union significance",
+    "uniqueTo": "Eurasian Union",
+    "cost": 100,
+    "production": 5,
+    "culture": 2,
+    "gold": 3,
+    "requiredTech": "Civil Service",
+    "uniques": ["Limited to [5] per Civilization","Unsellable","Destroyed when the city is captured","Cannot be purchased"]
+  },
+  {
+    "name": "Monument to Lenin",
+    "replaces": "Monument",
+    "uniqueTo": "Eurasian Union",
+    "culture": 3,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1,
+		"uniques": ["Destroyed when the city is captured"]
+  },
+  {
+    "name": "Gazprom Company",
+    "uniqueTo": "Eurasian Union",
+    "isNationalWonder": true,
+    "production": 10,
+    "science": 4,
+    "uniques": ["Provides [5] [Oil]"],
+    "requiredTech": "Biology",
+    "quote": "'Газпром - национальное достояние.' - слоган компании."
+  },
+  {
+    "name": "Severstal Company",
+    "uniqueTo": "Eurasian Union",
+    "isNationalWonder": true,
+    "production": 10,
+    "culture": 4,
+    "uniques": ["Provides [5] [Coal]"],
+    "requiredTech": "Industrialization",
+    "quote": "'Достичь большего вместе!' - слоган компании."
+  },
+  {
+    "name": "Nornikel Company",
+    "uniqueTo": "Eurasian Union",
+    "isNationalWonder": true,
+    "production": 10,
+    "gold": 4,
+    "uniques": ["Provides [5] [Aluminum]"],
+    "requiredTech": "Electricity",
+    "quote": "'Норильский Никель - просто быть лидером!' - слоган компании."
+  },
+  {
+    "name": "Park Gorkogo",
+    "uniqueTo": "Eurasian Union",
+    "isNationalWonder": true,
+    "culture": 10,
+    "happiness": 4,
+    "uniques": ["Free Social Policy"],
+    "requiredTech": "Architecture",
+    "quote": "'Я снимаю выпуск в Москве, в удивительном и очень красивом месте - парке Горького. И всё это не случайно! Лет 10 назад парк выглядел совсем иначе, будто бы им никто не занимался, да ещё и вход был платным. А сейчас помимо великолепных видов, фестивалей, вечеринок, уроков танцев, занятий йогой, развлечений для любых возрастов тут совсем недавно располагалась настоящая жемчужина. Парк Горького - это то место, после которого не очень хочется возвращаться в Питер, особенно в этом году! Ведь именно сюда, буквально недавно привозили главный трофей Чемпионата Мира по футболу. Вот этот Золотой кубок, который совсем скоро завоюет наша сборная России по футболу!' - Николай Соболев."
+  },
+  {
+    "name": "Moskovskiy Gosudarstvennyy Universitet",
+    "uniqueTo": "Eurasian Union",
+    "isNationalWonder": true,
+    "science": 10,
+    "happiness": 4,
+    "uniques": ["Free Technology"],
+    "requiredTech": "Scientific Theory",
+    "quote": "'В России две беды — дураки и дороги. Списывающий студент — это дурак на дороге к диплому о высшем образовании' - Азат Рахманов, социологический факультет"
+  }
+]
