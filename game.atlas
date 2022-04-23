@@ -94,84 +94,154 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/City of Union significance
   rotate: false
-  xy: 1083, 4
+  xy: 1083, 17
   size: 388, 388
   orig: 388, 388
   offset: 0, 0
   index: -1
 BuildingIcons/Gazprom Company
   rotate: false
-  xy: 1567, 575
+  xy: 1567, 588
   size: 325, 325
   orig: 325, 325
   offset: 0, 0
   index: -1
 BuildingIcons/Monument to Lenin
   rotate: false
-  xy: 4, 1143
+  xy: 4, 1156
   size: 725, 725
   orig: 725, 725
   offset: 0, 0
   index: -1
 NationIcons/Eurasian Union
   rotate: false
-  xy: 1345, 1356
+  xy: 1345, 1369
   size: 512, 512
   orig: 512, 512
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Admiral Kuznetsov
+  rotate: false
+  xy: 562, 512
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/BTR-80
+  rotate: false
+  xy: 737, 1245
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Buratino
+  rotate: false
+  xy: 1865, 1853
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ka-52
+  rotate: false
+  xy: 1345, 1333
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Knaz Vladimir
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Moskva
+  rotate: false
+  xy: 1900, 885
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Proekt 956
+  rotate: false
+  xy: 1515, 785
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/S-400
+  rotate: false
+  xy: 562, 476
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/T-72
+  rotate: false
+  xy: 737, 1209
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/T-90
+  rotate: false
+  xy: 777, 1245
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 UnitIcons/BTR-80
   rotate: false
-  xy: 1107, 400
+  xy: 1107, 413
   size: 400, 400
   orig: 400, 400
   offset: 0, 0
   index: -1
 UnitIcons/Buratino
   rotate: false
-  xy: 1107, 808
+  xy: 1107, 821
   size: 452, 452
   orig: 452, 452
   offset: 0, 0
   index: -1
 UnitIcons/Ka-52
   rotate: false
-  xy: 4, 27
+  xy: 4, 40
   size: 550, 500
   orig: 550, 500
   offset: 0, 0
   index: -1
 UnitIcons/Kalibr
   rotate: false
-  xy: 4, 535
+  xy: 4, 548
   size: 600, 600
   orig: 600, 600
   offset: 0, 0
   index: -1
 UnitIcons/Knaz Vladimir
   rotate: false
-  xy: 612, 648
+  xy: 612, 661
   size: 487, 487
   orig: 487, 487
   offset: 0, 0
   index: -1
 UnitIcons/Proekt 956
   rotate: false
-  xy: 612, 177
+  xy: 612, 190
   size: 463, 463
   orig: 463, 463
   offset: 0, 0
   index: -1
 UnitIcons/Su-25
   rotate: false
-  xy: 737, 1268
+  xy: 737, 1281
   size: 600, 600
   orig: 600, 600
   offset: 0, 0
   index: -1
 UnitIcons/T-72
   rotate: false
-  xy: 1567, 908
+  xy: 1567, 921
   size: 440, 440
   orig: 440, 440
   offset: 0, 0
