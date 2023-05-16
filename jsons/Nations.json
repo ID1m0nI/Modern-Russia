@@ -21,7 +21,7 @@
     "innerColor": [255,255,255],
     "favoredReligion": "Christianity",
     "uniqueName": "Успешное объединение",
-    "uniques": ["[5]% tile improvement construction time","Starts with [Civil Service]","[10]% [Gold] from Trade Routes"],
+    "uniques": ["[15]% tile improvement construction time","Starts with [Civil Service], [Iron Working], [Horseback Riding], [Trapping], [Bronze Working]","[15]% [Gold] from Trade Routes"],
     "cities": ["Москва","Санкт-Петербург","Владивосток","Екатеринбург","Ростов-на-Дону","Минск","Гомель","Витебск","Брест","Гродно","Херсон","Одесса","Харьков","Донецк","Николаев","Астана","Алма-Ата","Караганда","Актобе","Шышкент","Бишкек","Ош","Каракол","Джалал-Абад","Токмак","Ереван","Гюмри","Ванадзор","Вагаршапат","Иджеван"]
   }
 ]
